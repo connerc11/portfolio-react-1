@@ -1,6 +1,6 @@
 {
-  "homepage": "https://connerc11.github.io/my-app",
-  "name": "photo-port",
+  "homepage": "http://connerc11.github.io/portfolio-react-1",
+  "name": "portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
