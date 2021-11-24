@@ -15,7 +15,7 @@ function Project() {
             id: 1,
             img: pic1,
             information: "App to play trivia and drink casually with friends",
-            link: "https://github.com/connerc11/Trivia-Brews-Project1",
+            link: "https://connerc11.github.io/Trivia-Brews-Project1/",
             title: "Trivia Brews",
             github: "https://github.com/connerc11/Trivia-Brews-Project1",
             
