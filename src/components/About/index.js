@@ -18,7 +18,8 @@ function About() {
     <a href="https://github.com/connerc11/Fitness-Buddy">Fitness Buddy</a><br></br>
     <a href="https://github.com/connerc11/Conner-Cochrane-Portfolio">Original Portfolio</a><br></br>
     <a href="https://github.com/connerc11/Note-Taker">Note Taker</a><br></br>
-    <a href="https://github.com/connerc11/My-React-Portfolio">React Portfolio</a>
+    <a href="https://github.com/connerc11/My-React-Portfolio">React Portfolio</a><br></br>
+    <a href="https://github.com/connerc11/distilled-news">Distilled News Hubb</a>
   </div>
 </div>
       //   <div className="bio my-5">

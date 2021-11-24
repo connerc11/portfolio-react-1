@@ -7,6 +7,7 @@ import pic1 from '../../assets/images/1.png'
 import pic2 from '../../assets/images/2.png'
 import pic3 from '../../assets/images/3.png'
 import pic4 from '../../assets/images/4.png'
+import pic5 from '../../assets/images/5.png'
 
 function Project() {
     const projectGroups = [
@@ -45,7 +46,22 @@ function Project() {
             title: "Note Taker ",
             github: "https://github.com/connerc11/Note-Taker",
            
-        }
+        },
+        {
+            id: 5,
+            img: pic5,
+            information: "Distilled News Hubb allows you to search for any news articles",
+            link: "https://sleepy-headland-32009.herokuapp.com/",
+            title: "Distilled News Hub",
+            github: "https://github.com/connerc11/distilled-news"
+        },
+        // {
+        //     id: 6,
+        //     img: pic6,
+        //     information:
+        //     title:
+        //     github:
+        // }
         
     ]
         
