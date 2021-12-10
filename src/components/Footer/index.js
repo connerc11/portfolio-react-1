@@ -1,5 +1,5 @@
 import React from "react";
-import PDF from "./Resume 9:29.pdf";
+import PDF from "./general-resume.pdf";
 import './style.css'
 
 function Footer() {
@@ -8,7 +8,7 @@ function Footer() {
 <ul className="icon-styles">
 <li className="icon">
 
-<a href="https://www.linkedin.com/in/conner-cochrane-5a42a8211/" alt="linkedn"> <i className="fab fa-linkedin-in"></i></a> 
+<a href="https://www.linkedin.com/in/conner-c-cochrane/" alt="linkedn"> <i className="fab fa-linkedin-in"></i></a> 
 </li>
 <li className="icon">
 
