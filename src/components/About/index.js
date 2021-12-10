@@ -26,7 +26,7 @@ function About() {
     <a href="https://github.com/connerc11/Note-Taker">Note Taker Github</a><br></br>
     <a href="https://note-taker1001.herokuapp.com/">Note Taker App</a><br></br>
     <h5>Project Inclusions: HTML, CSS, JavaScript  </h5>
-    <a href="https://github.com/connerc11/distilled-news">Distilled News Hub Github</a>
+    <a href="https://github.com/connerc11/distilled-news">Distilled News Hub Github</a><br></br>
     <a href="https://sleepy-headland-32009.herokuapp.com/">Distilled News Hub Project</a><br></br>
     <h5>Project Inclusions: HTML, CSS, React Jsx, MongoDb, Bootstrap</h5>
   </div>
