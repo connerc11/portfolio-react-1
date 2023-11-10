@@ -38,15 +38,15 @@ function changeHandle(e){
 function submitHandle(e){
     e.preventDefault();
     if (!errorMessage) {
-      // setFormState({ [e.target.name]: e.target.value });
-    //   console.log('Form', formState);
+       setFormState({ [e.target.name]: e.target.value });
+       console.log('Form', formState);
     }
   };
 
 return (
     <div className="form-box">
             <h2 className="form-step" style={{margin: "15px"}}> Contact information</h2>
-            <p className="text-center" style={{color: "blue"}}>Email: cccochrane1@knights.ucf.edu</p>
+            <p className="text-center" style={{color: "blue"}}>Email: cccochrane1@gmail.com</p>
             <p className="text-center" style={{color: "blue"}}>Phone: 954-918-3334</p>
 
         <form id="contact-form" onChange={submitHandle}>
@@ -69,7 +69,7 @@ return (
           </div>
         )}
       <br></br>
-      <button id="submitBtn" className="submitBtn" type="submit">Send Now!</button>
+      <button onChange={submitHandle} id="submitBtn" className="submitBtn" type="submit">Send Now!</button>
       <br></br>
       
       <br></br>

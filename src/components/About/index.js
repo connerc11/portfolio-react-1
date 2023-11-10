@@ -21,7 +21,7 @@ function About() {
     <a href="https://fitness-buddy-2.herokuapp.com/">Fiitness Buddy Project</a><br></br>
     <h5>Project Inclusions: HTML, CSS, Node, MySQl, Handlebars </h5>
     <a href="https://github.com/connerc11/Conner-Cochrane-Portfolio">Original Portfolio Github</a><br></br>
-    <a href="https://connerc11.github.io/Conner-Cochrane-Portfolio/">Original Portfolio Poject</a><br></br>
+    <a href="https://connerc11.github.io/Conner-Cochrane-Portfolio/">Original Portfolio Project</a><br></br>
     <h5>Project Inclusions: HTML, CSS </h5>
     <a href="https://github.com/connerc11/Note-Taker">Note Taker Github</a><br></br>
     <a href="https://note-taker1001.herokuapp.com/">Note Taker App</a><br></br>
