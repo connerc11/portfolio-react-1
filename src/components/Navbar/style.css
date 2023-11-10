@@ -1,5 +1,5 @@
 .NavBarItem {
-    background: red;
+    background: black;
     height: 80px;
     display: flex;
     justify-content: center;
@@ -20,6 +20,15 @@
 
 }
 
+#ten {
+    border-style: dotted;
+ border: 3px 3px;
+    color: gold;
+    font-size: 75px;
+    font-weight: bold;
+
+}
+
 .nav-link {
 color: blue;
 padding: .5rem, 1rem;
@@ -30,8 +39,8 @@ padding: .5rem, 1rem;
 }
 
 .navLogo{
-    color: rgb(18, 18, 87);
-    margin: 5px;
+    color: yellow;
+    margin: 30px;
     width: auto;
 
 }

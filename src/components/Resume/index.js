@@ -10,9 +10,10 @@ import resume from "../../assets/files/general-resume.pdf"
     <h3 className="display-8">Coding Talents</h3>
     <hr className="my-4 text-center"></hr>
     <p className="lead">Full Stack Web Development</p>
-    <p className="lead">HTML, CSS, Javascript, Handlebars</p>
+    <p className="lead">Java, Selenium, HTML, CSS, Javascript, Handlebars</p>
     <p className="lead">NoSQL, MySQL, MongoDB</p>
     <p className="lead">React with JSX</p>
+    <p className="lead">Unit testing and Mock Testing</p>
     <a href={resume}> Download PDF </a>
   </div>
 </div>
@@ -34,4 +35,4 @@ import resume from "../../assets/files/general-resume.pdf"
 
 
         // </section>
-export default Resume
+export default Resume;
