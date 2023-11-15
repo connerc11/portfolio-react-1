@@ -55,13 +55,14 @@ function Project() {
             title: "Distilled News Hub",
             github: "https://github.com/connerc11/distilled-news"
         },
-        // {
-        //     id: 6,
-        //     img: pic6,
-        //     information:
-        //     title:
-        //     github:
-        // }
+         {
+             id: 6,
+             img: pic6,
+             information: "webpage used to display the information needed for PB lessons",
+             link: "https://connerc11.github.io/PB-Project/",
+             title: "PB coaching",
+             github: "https://github.com/connerc11/PB-Project"
+         }
         
     ]
         
